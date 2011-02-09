@@ -67,9 +67,9 @@
 }
 
 
-- (MKAnnotationView *)mapView:(MKMapView *)mapView viewForAnnotation:(id <MKAnnotation>)annotation {
+- (MKAnnotationView *)mapView:(MKMapView *)varmapView viewForAnnotation:(id <MKAnnotation>)annotation {
 	
-	if (annotation == mapView.userLocation) {
+	if (annotation == varmapView.userLocation) {
 		return nil;
 	}
 	
