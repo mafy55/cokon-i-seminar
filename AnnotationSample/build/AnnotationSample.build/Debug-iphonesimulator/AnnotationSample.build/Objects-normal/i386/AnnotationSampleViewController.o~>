@@ -1,0 +1,2 @@
+/Users/nakagawasatoshi/Documents/AnnotationSample/Classes/AnnotationSampleViewController.m: In function '-[AnnotationSampleViewController mapView:viewForAnnotation:]':
+/Users/nakagawasatoshi/Documents/AnnotationSample/Classes/AnnotationSampleViewController.m:72: warning: local declaration of 'mapView' hides instance variable
